@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "tsx": "^3.12.7"
+  },
+  "name": "exe-ts-2",
+  "version": "1.0.0",
+  "main": "exe1.js",
+  "type":"module",
+  "dependencies": {
+    "buffer-from": "^1.1.2",
+    "esbuild": "^0.17.19",
+    "get-tsconfig": "^4.7.0",
+    "resolve-pkg-maps": "^1.0.0",
+    "source-map": "^0.6.1",
+    "source-map-support": "^0.5.21"
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
